@@ -5,7 +5,7 @@ This repo contains all of the current settings I have throughout varying environ
 To install, simply go to the directory of the environment you want to change/edit, and run
 the provided shell script with `sudo` privileges ( don't worry, I promise to do no evil `\o_o/` ).
 
-Anyone is welcomed to use my provided settings and adjust them to their liking.
+Anyone is welcomed to use these provided settings and adjust them to their liking.
 
 ### Troubleshooting
 
@@ -26,4 +26,3 @@ Anyone is welcomed to use my provided settings and adjust them to their liking.
   ```
 
   Afterwards, execute the script and you should be golden.
-

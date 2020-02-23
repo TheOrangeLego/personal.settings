@@ -10,4 +10,8 @@ echo "Plug installed successfully!!"
 
 echo "Installing Powerline fonts..."
 sudo apt install fonts-powerline
-echo "Powerline fonts installed successfully!!"
+
+echo "Installing plugins for vim..."
+vim -c "PlugInstall" -c qa
+
+echo "Finished installing Vim preferences!! :)"
